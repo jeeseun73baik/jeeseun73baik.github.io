@@ -41,8 +41,8 @@ sidebar:
         - idiom: Korean
           level: Native
 
-        - idiom: 
-          level: 
+        - idiom: Italian
+          level: Un poco:)
 
     interests:
       title: Interests
@@ -56,22 +56,21 @@ sidebar:
         - item: 
           link:
 
+
 Research Interests:
     title: Research Interests
-    summary:
+    summary: |
       My research interests are Performance Managment and Artificial Intelligence.
       Here are my research questions.
       1. What leads organizations to performance improvement?
       2. How can public organization's behavior be modified?
-      3. How can the mechanism of AI be applied to the public sector?
-      
+      3. How can the mechanism of AI be applied to the public sector?     
 education:
     title: Education
     info:
       - degree: MS in Public Administration
         university: Yonsei University
         time: Sep. 2022 - current
-        
       - degree: BS in Public Administration
         university: Yonsei University
         time: March. 2017 - Aug. 2022
@@ -88,7 +87,7 @@ research projects:
     intro: >
       Joining the research project, for me, is like a kind of journey to the world.
     assignments:
-      - title: 
+      - title: Large Language Models and Social Science
         link: 
         tagline: 
         
