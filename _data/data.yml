@@ -95,18 +95,33 @@ publications:
       - title: "A Study on the Effect of Perception of Government Managerial Capacity and Agility on Government Trust: Focusing on the Mediating Effect of Perception of Government Performance"
         link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11221695"
         authors: Baik, J. & Ji, S.
-        Journal: Seoul Association for Public Administration
+        journal: Seoul Association for Public Administration
 
       - title: "Local Government as Institutional Actors: Focusing on the Effectiveness of Early Budget Execution"
         link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11508533&dbid=edspia&an=edspia.NODE11508533&text=Full+Text+%28DBPIA%29"
         authors: Baik, J. & Ji, S.
-        conference: The Korean Association for Local Government Studies
+        journal: The Korean Association for Local Government Studies
 
       - title: "The Impact of Local Fiscal Stress on Social Welfare Expenditure: Focusing on the Non-linear Relationship"
         link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11613179&dbid=edspia&an=edspia.NODE11613179&text=Full+Text+%28DBPIA%29"
         authors: Baik, J. & Lee, T.
-        conference: The Korean Association for Local Government Studies
+        journal: The Korean Association for Local Government Studies
 
+research experiences:
+    title: research experiences
+    info:
+      - role: Visiting Researcher
+        time: 2023 - Present
+        company: MIDaS(Machine Intelligence & Data Science)lab	
 
+research projects:
+    title: research projects
+    intro: >
+      Joining the research project, for me, is like a kind of journey to the world.
+    assignments:
+      - title: Large Language Models and Social Science
+        link: 
+        tagline: 
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
